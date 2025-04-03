@@ -382,6 +382,10 @@ footer img {
   padding-top: 0rem;
 }
 
+.wesprzyjnas {
+  margin-top: 4rem;
+}
+
 @media screen and (max-width: 1600px) {
   section {
     padding: 8rem 6rem;
